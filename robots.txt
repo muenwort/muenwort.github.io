@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://muenwort.github.io/sitemap.html.gz
+Sitemap: https://muenwort.github.io/app/sitemap.html.gz
+Sitemap: https://muenwort.github.io/assets/sitemap.html.gz
+Sitemap: https://muenwort.github.io/css/sitemap.html.gz
+Sitemap: https://muenwort.github.io/data/sitemap.html.gz
+Sitemap: https://muenwort.github.io/includes/sitemap.html.gz
+Sitemap: https://muenwort.github.io/item/sitemap.html.gz
+Sitemap: https://muenwort.github.io/src/sitemap.html.gz
